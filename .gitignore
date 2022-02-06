@@ -1,0 +1,12 @@
+.csproj
+.sln
+.dll
+.exe
+.db
+.lib
+/GameDev/bin
+/GameDev/obj
+/GameDevLib/bin
+/GameDevLib/obj
+
+
