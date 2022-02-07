@@ -1,0 +1,9 @@
+.csproj
+/GameDev/bin
+/GameDev/obj
+/GameDevLib
+
+/bin
+/GameDevLib/bin
+
+

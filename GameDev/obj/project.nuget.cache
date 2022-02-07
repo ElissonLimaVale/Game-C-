@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "OWFxLnDBfIyzMULTVAuRxKqfBVjZCrMTHc3qqFfMhPsT1aNJMMYOk4jsZjVLXzf1VaRA1keiRizO7bquxYw+IQ==",
+  "dgSpecHash": "yQ2uxI5/jzb1uoroNzIR41Y4MXoLkHxDNIKFIm1aTxUNE0NkruyQA1JQk+YyPMqewx3JRum/Vx/akpVEZBBV+A==",
   "success": true,
   "projectFilePath": "/home/elisson/Documents/aspnet-apps/Games/GameDev/GameDev/GameDev.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/opentk/4.6.7/opentk.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.compute/4.6.7/opentk.compute.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.core/4.6.7/opentk.core.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.graphics/4.6.7/opentk.graphics.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.input/4.6.7/opentk.input.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.mathematics/4.6.7/opentk.mathematics.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.openal/4.6.7/opentk.openal.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.redist.glfw/3.3.0-pre20200830200122/opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "/root/.nuget/packages/opentk.windowing.common/4.6.7/opentk.windowing.common.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.windowing.desktop/4.6.7/opentk.windowing.desktop.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/opentk.windowing.graphicslibraryframework/4.6.7/opentk.windowing.graphicslibraryframework.4.6.7.nupkg.sha512",
+    "/root/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
